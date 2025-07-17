@@ -2,12 +2,14 @@
 __pycache__/
 *.pyc
 .venv/
+*.egg-info/
 
 ### Data files ###
 *.csv
 *.json
 *.xlsx
 *.db
+*.md
 *.sqlite
 *.pickle
 *.pkl
