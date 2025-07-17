@@ -1,7 +1,7 @@
-# Hindi-Text-Extractor-Gemini
+# Text-Extractor-Gemini
 
 
-🧠 Hindi Text Extractor using Gemini API (FastAPI)
+🧠 For example: Hindi Text Extractor using Gemini API (FastAPI)
 This project is a lightweight API service built with FastAPI that extracts Hindi text from images (printed or handwritten) using the Google Gemini 1.5 Flash Vision API.
 
 It securely handles your Gemini API key using .env, supports image uploads via REST endpoints, and returns the extracted Hindi content as structured text.
