@@ -28,4 +28,6 @@ logs/
 temp/
 tmp/
 *.log
-.Screenshots/
+*.png
+*.jpg
+*.jpeg
