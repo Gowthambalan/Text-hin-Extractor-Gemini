@@ -4,32 +4,8 @@ __pycache__/
 .venv/
 *.egg-info/
 
-### Data files ###
-*.csv
-*.json
-*.xlsx
-*.db
-*.md
-*.sqlite
-*.pickle
-*.pkl
-*.h5
-*.npy
-*.npz
-*.parquet
-*.feather
-*.data
-*.tsv
-*.txt  # except if they're actual text files you want to track
-data/
-datasets/
-output/
-results/
-models/
-logs/
-temp/
-tmp/
-*.log
-*.png
+# Image files
 *.jpg
 *.jpeg
+*.png
+*.peg
